@@ -6,5 +6,6 @@
 * [Joins & Subqueries.sql](Daily_Tasks/Joins_&_Subqueries.sql)
 * [MongoDB CRUD.js](Daily_Tasks/CRUD_MongoDB.js)
   
- ***Assessments:***
+### ***Assessments :***
   * [SQL Exercises.sql](Assessments/SQL_Exercises.sql)
+  * [MongoDB Exercises.js](Assessments/MongoDB_Exercises.js)
