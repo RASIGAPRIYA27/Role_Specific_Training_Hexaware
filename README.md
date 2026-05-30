@@ -4,6 +4,7 @@
 
 ## May 30th
 * [Joins & Subqueries.sql](Joins_&_Subqueries.sql)
+* [MongoDB CRUD.js](CRUD_MongoDB.js)
   
-***Assessments:***
-- [SQL Exercises.sql](SQL_Exercises.sql)
+ ***Assessments:***
+  * [SQL Exercises.sql](SQL_Exercises.sql)
