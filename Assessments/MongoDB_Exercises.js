@@ -195,94 +195,94 @@ db.restaurants.find({'contact.email': null })
 // 21. find Either phone or email is null.
 db.restaurants.find({$or:[ {'contact.email': null },{'contact.phone': null }]})
 
-/ / 22. Find restaurant having tag premium.
+// 22. Find restaurant having tag premium.
 db.restaurants.find({tags:'premium'})
 
-/ / 23. find restaurants having tag fast food.
+// 23. find restaurants having tag fast food.
 db.restaurants.find({tags:'fast food'})
 
-/ / 24. Find restaurants having both tags. North Indian and premium.
+// 24. Find restaurants having both tags. North Indian and premium.
 db.restaurants.find({tags:{$all:['north indian','premium']}})
 
 
-/ / 25. sort rating in descending.
+// 25. sort rating in descending.
 db.restaurants.find().sort({restaurant_id:-1})
 
-/ / 26. display top three highest rated restaurants.
+// 26. display top three highest rated restaurants.
 db.restaurants.find().sort({restaurant_id:-1}).limit(3)
 
 
-/ / 27. Start restaurant by average order value ascending.
+// 27. Start restaurant by average order value ascending.
 db.restaurants.find().sort({avg_order_value:1})
 
 
-/ / 28. display top two expensive restaurant by average order value.
+// 28. display top two expensive restaurant by average order value.
 db.restaurants.find().sort({avg_order_value:-1}).limit(2)
 
-/ / 29. update one document.
+// 29. update one document.
 db.restaurants.updateOne({name:'Burger Street'},{$set:{rating:4.0}})
 
-/ / 30. Update one document.
+// 30. Update one document.
 db.restaurants.updateOne({name:'Tea Tales'},{$set:{delivery_available: true}})
 
-/ / 31. Update many document.
+// 31. Update many document.
 db.restaurants.updateMany({},{$set:{active:true}})
 
-/ / 32. add a new tag.
+// 32. add a new tag.
 db.restaurants.updateOne({name:'Spice Hub'},{$push:{tags:"popular"}})
 
-/ / 33. remove the field from all document.
+// 33. remove the field from all document.
 db.restaurants.updateMany(
     {},
     { $unset: { active: "" } }
 );
 
-/ / 34. Delete from one document.
+// 34. Delete from one document.
 db.restaurants.deleteOne({restaurant_id:6})
 
-/ / 35. Delete from many document.
+// 35. Delete from many document.
 db.restaurants.deleteMany({rating:{$lte:4.0}})
 
-/ / 36. Count total documents.
+// 36. Count total documents.
 db.restaurants.countDocuments()
 
-/ / 37. Count the document with specific field.
+// 37. Count the document with specific field.
 db.restaurants.countDocuments({delivery_available:true})
 
-/ / 38. Display distinct field.
+// 38. Display distinct field.
 db.restaurants.distinct('city')
 
-/ / 39. Display distinct field.
+// 39. Display distinct field.
 db.restaurants.distinct('cuisine')
 
-/ / 40. Count by city.
+// 40. Count by city.
 db.restaurants.aggregate([
     { $group: { _id: "$city", count: { $sum: 1 } } }
 ]);
 
-/ / 41. count by cuisine.
+// 41. count by cuisine.
 db.restaurants.aggregate([
     { $group: { _id: "$cuisine", count: { $sum: 1 } } }
 ]);
 
-/ / 42. find average rating by cuisine
+// 42. find average rating by cuisine
 db.restaurants.aggregate([
     { $group: { _id: "$cuisine", avg_rating: { $avg: "$rating" } } }
 ]);
 
-/ / 43. Find average order value by city.
+// 43. Find average order value by city.
 db.restaurants.aggregate([
     { $group: { _id: "$city", avg_order_value: { $avg: "$avg_order_value" } } }
 ]);
 
-/ / 44. find highest average order value by cuisine.
+// 44. find highest average order value by cuisine.
 db.restaurants.aggregate([
     { $group: { _id: "$cuisine", avg_order_value: { $avg: "$avg_order_value" } } },
     { $sort: { avg_order_value: -1 } },
     { $limit: 1 }
 ]);
 
-/ / 45. show cuisines having more than one restaurant.
+// 45. show cuisines having more than one restaurant.
 db.restaurants.aggregate([
     { $group: { _id: "$cuisine", count: { $sum: 1 } } },
     { $match: { count: { $gt: 1 } } }
