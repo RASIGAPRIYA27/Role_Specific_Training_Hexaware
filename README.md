@@ -11,3 +11,5 @@
 ### ***Assessments :***
   * [SQL Exercises.sql](Assessments/SQL_Exercises.sql)
   * [MongoDB Exercises.js](Assessments/MongoDB_Exercises.js)
+
+## June 1st
