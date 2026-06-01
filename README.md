@@ -14,3 +14,5 @@
 
 ## June 1st
 ### ***MySQL Capstone Project :***
+  * [Online Retail Sales Analytics Database.sql](Capstone_Project/retail_capstone_project.sql) --> [Report](Capstone_Project/Online_Retail_Capstone_Report.pdf)
+    
