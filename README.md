@@ -15,4 +15,5 @@
 ## June 1st
 ### ***MySQL Capstone Project :***
   * [Online Retail Sales Analytics Database.sql](Capstone_Project/retail_capstone_project.sql) --> [Report](Capstone_Project/Online_Reatil_Capstone_Report.pdf)
+  *  [Hospital Appointment and Billing Analytics.sql](Capstone_Project/hospital_capstone_project.sql) --> [Report](Capstone_Project/hosipital_management_report.pdf)
     
