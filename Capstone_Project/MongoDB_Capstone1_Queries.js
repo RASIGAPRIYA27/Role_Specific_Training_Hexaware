@@ -428,7 +428,7 @@ db.orders.aggregate([
   {
     $group: {
       _id: "$restaurant_id",
-      avg_order_rating: { $avg: "$order_rating" }
+      avg_order_rating: { $avg: "$rating" }
     }
   }
 ])
