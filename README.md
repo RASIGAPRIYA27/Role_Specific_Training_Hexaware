@@ -23,4 +23,4 @@
  * [EdTech Learning Analytics System.js](Capstone_Project/MongoDB_Capstone2_Queries.js)
 
 ## June 4th
-* [Python Exercises.py](Daily_Tasks/Data_Structure_Python.ps)
+* [Python Exercises.py](Daily_Tasks/Data_Structures_Exercises.py)
