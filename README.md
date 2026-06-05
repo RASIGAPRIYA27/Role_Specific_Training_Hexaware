@@ -24,3 +24,7 @@
 
 ## June 4th
 * [Python Exercises.py](Daily_Tasks/Data_Structures_Exercises.py)
+
+## June 5th
+* [Python File Handling Exercises.py](Daily_Tasks/FileHandling_Exercises.py)
+
