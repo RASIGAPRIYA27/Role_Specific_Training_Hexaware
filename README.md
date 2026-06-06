@@ -14,8 +14,8 @@
 
 ## June 1st
 ### ***MySQL Capstone Project :***
-  * [Online Retail Sales Analytics Database.sql](Capstone_Project/retail_capstone_project.sql) --> [Report](Capstone_Project/Online_Reatil_Capstone_Report.pdf)
-  *  [Hospital Appointment and Billing Analytics.sql](Capstone_Project/hospital_capstone_project.sql) --> [Report](Capstone_Project/hosipital_management_report.pdf)
+  * [Online Retail Sales Analytics Database.sql](Capstone_Project/SQL_Capstone_Project1.sql) --> [Report](Capstone_Project/SQL_Report1.pdf)
+  *  [Hospital Appointment and Billing Analytics.sql](Capstone_Project/SQL_Capstone_Project2.sql) --> [Report](Capstone_Project/SQL_Report2.pdf)
     
 ## June 2nd
 ### ***MongoDB Capstone Project :***
