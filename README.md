@@ -28,3 +28,9 @@
 ## June 5th
 * [Python File Handling Exercises.py](Daily_Tasks/FileHandling_Exercises.py)
 
+## June 6th
+### ***Python Capstone Project :***
+  * [E-Commerce Order Analytics System.py](Capstone_Project/Python_Capstone_Project1.py)
+  * [Smart Cricket Analytics System.py]
+
+
