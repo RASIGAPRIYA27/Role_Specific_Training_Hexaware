@@ -31,6 +31,6 @@
 ## June 6th
 ### ***Python Capstone Project :***
   * [E-Commerce Order Analytics System.py](Capstone_Project/Python_Capstone_Project1.py)
-  * [Smart Cricket Analytics System.py]
+  * [Smart Cricket Analytics System.py](Capstone_Project/Python_Capstone_Project2.py)
 
 
