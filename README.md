@@ -33,4 +33,7 @@
   * [E-Commerce Order Analytics System.py](Capstone_Project/Python_Capstone_Project1.py)
   * [Smart Cricket Analytics System.py](Capstone_Project/Python_Capstone_Project2.py)
 
+## June 8th
+* [PySpark DataFrame Exercises.ipynb](Daily_Tasks/PySpark_DataFrame_Exercises_ipynb.ipynb)
+
 
