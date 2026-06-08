@@ -34,6 +34,8 @@
   * [Smart Cricket Analytics System.py](Capstone_Project/Python_Capstone_Project2.py)
 
 ## June 8th
+* [](Daily_Tasks/FileHandling_Exercises.py)
+### ***Assessments :***
 * [PySpark DataFrame Exercises.ipynb](Daily_Tasks/PySpark_DataFrame_Exercises_ipynb.ipynb)
 
 
