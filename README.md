@@ -39,4 +39,8 @@
 ### ***Assessments :***
 * [PySpark DataFrame Exercises.ipynb](Assessments/PySpark_DataFrame_Exercises.ipynb)
 
-
+## June 9th
+* [PySpark RDD Practice.ipynb](Daily_Tasks/PySpark2.ipynb)
+### ***Assessments :***
+* [PySpark RDD Exercises(1).ipynb](Assessments/PySpark_RDD_Exercises(1).ipynb)
+* [PySpark RDD Exercises(2).ipynb](Assessments/PySpark_RDD_Exercises(2).ipynb)
