@@ -27,7 +27,7 @@
 
 ## June 5th
 ### ***Assessments :***
-* [Python File Handling Exercises.py](Daily_Tasks/FileHandling_Exercises.py)
+* [Python File Handling Exercises.py](Assessments/Python_FileHandling_Exercises.py)
 
 ## June 6th
 ### ***Python Capstone Project :***
