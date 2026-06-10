@@ -44,3 +44,9 @@
 ### ***Assessments :***
 * [PySpark RDD Exercises(1).ipynb](Assessments/PySpark_RDD_Exercises(1).ipynb)
 * [PySpark RDD Exercises(2).ipynb](Assessments/PySpark_RDD_Exercises(2).ipynb)
+
+## June 10th
+* [PySpark CSV Handling.ipynb](Daily_Tasks/PySpark_CSV.ipynb)
+* [PySpark JSON Handling.ipynb](Daily_Tasks/PySpark_JSON.ipynb)
+* [PySpark CSV Null Handling.ipynb](Daily_Tasks/PySpark_Null_CSV.ipynb)
+* [PySpark JSON Null Handling.ipynb](Daily_Tasks/PySpark_Null_JSON.ipynb)
