@@ -50,3 +50,9 @@
 * [PySpark JSON Handling.ipynb](Daily_Tasks/PySpark_JSON.ipynb)
 * [PySpark CSV Null Handling.ipynb](Daily_Tasks/PySpark_Null_CSV.ipynb)
 * [PySpark JSON Null Handling.ipynb](Daily_Tasks/PySpark_Null_JSON.ipynb)
+
+## June 10th
+* [PySpark DataFrame Joins.ipynb](Daily_Tasks/PySpark4_Joins.ipynb)
+* [PySpark Analytics Exercises.ipynb](Daily_Tasks/PySpark_Analytics_Exercises.ipynb)
+
+
