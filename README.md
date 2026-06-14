@@ -31,8 +31,8 @@
 
 ## June 6th
 ### ***Python Milestone Project :***
-  * [E-Commerce Order Analytics System.py](Milestone_Project/Python_Milestone_Project1)
-  * [Smart Cricket Analytics System.py](Milestone_Project/Python_Milestone_Project2)
+  * [E-Commerce Order Analytics System.py](Milestone_Project/Python_Milestone_Project1.py)
+  * [Smart Cricket Analytics System.py](Milestone_Project/Python_Milestone_Project2.py)
 
 ## June 8th
 * [PySpark Fundamentals.ipynb](Daily_Tasks/PySpark1.ipynb)
