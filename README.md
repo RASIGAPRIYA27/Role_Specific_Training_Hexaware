@@ -14,13 +14,13 @@
 
 ## June 1st
 ### ***MySQL Milestone Project :***
-  * [Online Retail Sales Analytics Database.sql](Capstone_Project/SQL_Capstone_Project1.sql) --> [Report](Capstone_Project/SQL_Report1.pdf)
-  *  [Hospital Appointment and Billing Analytics.sql](Capstone_Project/SQL_Capstone_Project2.sql) --> [Report](Capstone_Project/SQL_Report2.pdf)
+  * [Online Retail Sales Analytics Database.sql](Milestone_Project/SQL_MileStone_Project(1).sql) --> [Report](Milestone_Project/SQL_Project(1)_report.pdf)
+  *  [Hospital Appointment and Billing Analytics.sql](Milestone_Project/SQL_Milestone_Project(2).sql) --> [Report](Milestone_Project/SQL_Project(2)_report.pdf)
     
 ## June 2nd
 ### ***MongoDB Milestone Project :***
- * [Food Delivery Business Analytics System.js](Capstone_Project/MongoDB_Capstone1_Queries.js)
- * [EdTech Learning Analytics System.js](Capstone_Project/MongoDB_Capstone2_Queries.js)
+ * [Food Delivery Business Analytics System.js](Milestone_Project/MongoDB_Milestone1_Queries.js)
+ * [EdTech Learning Analytics System.js](Milestone_Project/MongoDB_Milestone2_Queries.js)
 
 ## June 4th
 * [Python Exercises.py](Daily_Tasks/Data_Structures_Exercises.py)
@@ -31,8 +31,8 @@
 
 ## June 6th
 ### ***Python Milestone Project :***
-  * [E-Commerce Order Analytics System.py](Capstone_Project/Python_Capstone_Project1.py)
-  * [Smart Cricket Analytics System.py](Capstone_Project/Python_Capstone_Project2.py)
+  * [E-Commerce Order Analytics System.py](Milestone_Project/Python_Milestone_Project1)
+  * [Smart Cricket Analytics System.py](Milestone_Project/Python_Milestone_Project2)
 
 ## June 8th
 * [PySpark Fundamentals.ipynb](Daily_Tasks/PySpark1.ipynb)
@@ -57,7 +57,7 @@
 
 ## June 13th
 ### ***PySpark Milestone Project :***
-* [PySpark Milestone Project(1).ipynb](Milestone Project/PySpark Milestone Project(1).ipynb)
-* [PySpark Milestone Project(2).ipynb](Milestone Project/PySpark Milestone Project(2).ipynb)
+* [PySpark Milestone Project(1).ipynb](Milestone_Project/PySpark_Milestone_Project(1).ipynb)
+* [PySpark Milestone Project(2).ipynb](Milestone_Project/PySpark_Milestone_Project(2).ipynb)
 
 
