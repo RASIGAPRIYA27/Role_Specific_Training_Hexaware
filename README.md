@@ -60,4 +60,11 @@
 * [PySpark Milestone Project(1).ipynb](Milestone_Project/PySpark_Milestone_Project(1).ipynb)
 * [PySpark Milestone Project(2).ipynb](Milestone_Project/PySpark_Milestone_Project(2).ipynb)
 
+## Weekly Capstone Project
+### ***Supply Chain Monitoring and Optimization Platform :***
+* 
+* 
+### ***Customer Order Insights and Delivery Tracker:***
+* 
+* 
 
