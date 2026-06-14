@@ -13,12 +13,12 @@
   * [MongoDB Exercises.js](Assessments/MongoDB_Exercises.js)
 
 ## June 1st
-### ***MySQL Capstone Project :***
+### ***MySQL Milestone Project :***
   * [Online Retail Sales Analytics Database.sql](Capstone_Project/SQL_Capstone_Project1.sql) --> [Report](Capstone_Project/SQL_Report1.pdf)
   *  [Hospital Appointment and Billing Analytics.sql](Capstone_Project/SQL_Capstone_Project2.sql) --> [Report](Capstone_Project/SQL_Report2.pdf)
     
 ## June 2nd
-### ***MongoDB Capstone Project :***
+### ***MongoDB Milestone Project :***
  * [Food Delivery Business Analytics System.js](Capstone_Project/MongoDB_Capstone1_Queries.js)
  * [EdTech Learning Analytics System.js](Capstone_Project/MongoDB_Capstone2_Queries.js)
 
@@ -30,7 +30,7 @@
 * [Python File Handling Exercises.py](Assessments/Python_FileHandling_Exercises.py)
 
 ## June 6th
-### ***Python Capstone Project :***
+### ***Python Milestone Project :***
   * [E-Commerce Order Analytics System.py](Capstone_Project/Python_Capstone_Project1.py)
   * [Smart Cricket Analytics System.py](Capstone_Project/Python_Capstone_Project2.py)
 
@@ -51,8 +51,13 @@
 * [PySpark CSV Null Handling.ipynb](Daily_Tasks/PySpark_Null_CSV.ipynb)
 * [PySpark JSON Null Handling.ipynb](Daily_Tasks/PySpark_Null_JSON.ipynb)
 
-## June 10th
+## June 11th
 * [PySpark DataFrame Joins.ipynb](Daily_Tasks/PySpark4_Joins.ipynb)
 * [PySpark Analytics Exercises.ipynb](Daily_Tasks/PySpark_Analytics_Exercises.ipynb)
+
+## June 13th
+### ***PySpark Milestone Project :***
+* [PySpark Milestone Project(1).ipynb](Milestone Project/PySpark Milestone Project(1).ipynb)
+* [PySpark Milestone Project(2).ipynb](Milestone Project/PySpark Milestone Project(2).ipynb)
 
 
