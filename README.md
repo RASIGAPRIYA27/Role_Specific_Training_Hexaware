@@ -60,6 +60,14 @@
 * [PySpark Milestone Project(1).ipynb](Milestone_Project/PySpark_Milestone_Project(1).ipynb)
 * [PySpark Milestone Project(2).ipynb](Milestone_Project/PySpark_Milestone_Project(2).ipynb)
 
+## June 15th
+* [Cloud Computing Fundamentals](Daily_Tasks/cloud_computing.pdf)
+* [Microsoft Azure Databricks Fundamentals](Daily_Tasks/Azure_Databricks.pdf)
+
+## June 16th
+* [Databricks DataFrame Exercises.ipynb](Daily_Tasks/Databricks_DataFrame_Exercises.ipynb)
+* [Databricks FileHandling Exercises.ipynb](Daily_Tasks/Databricks_FileHandling_Exercises.ipynb)
+
 ## Weekly Capstone Project
 ### ***Supply Chain Monitoring and Optimization Platform :***
 * 
