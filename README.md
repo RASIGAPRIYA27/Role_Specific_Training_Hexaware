@@ -68,11 +68,17 @@
 * [Databricks DataFrame Exercises.ipynb](Daily_Tasks/Databricks_DataFrame_Exercises.ipynb)
 * [Databricks FileHandling Exercises.ipynb](Daily_Tasks/Databricks_FileHandling_Exercises.ipynb)
 
+## June 17th
+* [Data Visualization.ipynb](Daily_Tasks/Data_Visualization.ipynb)
+* [Delta Lake Basic Exercises.ipynb](Daily_Tasks/Delta_Lake_Basics.ipynb)
+* [Delta Lake Merge,SCD Exercises.ipynb](Daily_Tasks/Delta_Merge_SCD1.ipynb)
+
+
 ## Weekly Capstone Project
 ### ***Supply Chain Monitoring and Optimization Platform :***
-* 
-* 
+* Week 1
+* Week 2
 ### ***Customer Order Insights and Delivery Tracker:***
-* 
-* 
+* Week 1
+* Week 2
 
