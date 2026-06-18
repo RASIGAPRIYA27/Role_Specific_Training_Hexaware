@@ -69,9 +69,13 @@
 * [Databricks FileHandling Exercises.ipynb](Daily_Tasks/Databricks_FileHandling_Exercises.ipynb)
 
 ## June 17th
+* [Data Management Fundamentals.pdf](Daily_Tasks/Data_Management.pdf)
 * [Data Visualization.ipynb](Daily_Tasks/Data_Visualization.ipynb)
 * [Delta Lake Basic Exercises.ipynb](Daily_Tasks/Delta_Lake_Basics.ipynb)
 * [Delta Lake Merge,SCD Exercises.ipynb](Daily_Tasks/Delta_Merge_SCD1.ipynb)
+
+## June 18th
+* [Azure Databricks Unity Catalog.pdf](Daily_Tasks/Azure_Databricks_Unity_Catalog.pdf)
 
 
 ## Weekly Capstone Project
