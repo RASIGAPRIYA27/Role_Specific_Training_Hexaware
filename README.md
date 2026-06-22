@@ -107,6 +107,12 @@
 
 * [Azure Databricks Jobs & Pipelines Exercises](Daily_Tasks/Jobs_Pipelines_Exercises)
 
+## June 20th
+### ***Azure Databricks Milestone Project :***
+* [Azure Databricks Milestone Project 1.ipynb](Milestone_Project/Azure_Databricks/Azure_Databricks_Milestone_Project1.ipynb)
+* [Azure Databricks Milestone Project 2.ipynb](Milestone_Project/Azure_Databricks/Azure_Databricks_Milestone_Project2.ipynb
+)
+
 ## Weekly Capstone Project
 
 ### ***Supply Chain Monitoring and Optimization Platform :***
