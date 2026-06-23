@@ -122,5 +122,5 @@
 
 ### ***Customer Order Insights and Delivery Tracker:***
 
-* [Week 1](Weekly_Capstone_Project/Customer_Order_Insights/Week_1.sql)
+* [Week 1](Weekly_Capstone_Project/Customer_Order_Insights/Week1)
 * Week 2
