@@ -117,7 +117,7 @@
 
 ### ***Supply Chain Monitoring and Optimization Platform :***
 
-* [Week 1](Weekly_Capstone_Project/Supply_Chain_Monitoring/Week(1).sql)
+* [Week 1](Weekly_Capstone_Project/Supply_Chain_Monitoring/Week1)
 * Week 2
 
 ### ***Customer Order Insights and Delivery Tracker:***
