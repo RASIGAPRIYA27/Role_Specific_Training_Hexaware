@@ -113,9 +113,13 @@
 * [Azure Databricks Milestone Project 2.ipynb](Milestone_Project/Azure_Databricks/Azure_Databricks_Milestone_Project2.ipynb
 )
 
-## June 19th
+## June 23th
 
 * [Apache Airflow Exercises](Daily_Tasks/Apache_Airflow)
+
+## June 25th
+### ***Apache Airflow Milestone Project :***
+* [Apache Airflow Milestone Project](Milestone_Project/Apache_Airflow)
 
 ## Weekly Capstone Project
 
