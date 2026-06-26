@@ -114,12 +114,15 @@
 )
 
 ## June 23th
-
+* [Apache Airflow Fundamentals.pdf](Daily_Tasks/Apache_Airflow/Apache_Airflow.pdf)
 * [Apache Airflow Exercises](Daily_Tasks/Apache_Airflow)
 
 ## June 25th
 ### ***Apache Airflow Milestone Project :***
 * [Apache Airflow Milestone Project](Milestone_Project/Apache_Airflow)
+
+## June 26th
+* [DevOps Fundamentals.pdf](Daily_Tasks/Azure_DevOps/DevOps.pdf)
 
 ## Weekly Capstone Project
 
