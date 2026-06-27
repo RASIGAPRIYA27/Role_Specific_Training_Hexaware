@@ -133,12 +133,12 @@
 
 * [Week 1](Weekly_Capstone_Project/Supply_Chain_Monitoring/Week1)
 * [Week 2](Weekly_Capstone_Project/Supply_Chain_Monitoring/Week(2).py)
-* Week 3
+* [Week 3](Weekly_Capstone_Project/Supply_Chain_Monitoring/Week(3).ipynb)
 * week 4
 
 ### ***Customer Order Insights and Delivery Tracker:***
 
 * [Week 1](Weekly_Capstone_Project/Customer_Order_Insights/Week1)
 * [Week 2](Weekly_Capstone_Project/Customer_Order_Insights/Week_2.py)
-* Week 3
+* [Week 3](Weekly_Capstone_Project/Customer_Order_Insights/Week_3.ipynb)
 * week 4
