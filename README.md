@@ -124,6 +124,9 @@
 ## June 26th
 * [DevOps Fundamentals.pdf](Daily_Tasks/Azure_DevOps/DevOps.pdf)
 
+## June 27th
+* [Agile Meetings.pdf](Daily_Tasks/Azure_DevOps/Meetings_in_Agile.pdf)
+
 ## Weekly Capstone Project
 
 ### ***Supply Chain Monitoring and Optimization Platform :***
